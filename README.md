@@ -9,6 +9,7 @@ Jiaming Mai, Yizhen Liu, Lucille Cao, Briana Li, Yuhao Shi
 ## Introduction
 
 Link to live website https://forested-sage-bagel.glitch.me 
+
 Code: https://glitch.com/edit/#!/forested-sage-bagel
 
 The project plans to develop a website that will produce suggestions for meals based on users’ body information and personal weight management goals. The generator will calculate the user’s daily calories intake, then make one meal plan recommendation with three options. The recommendation includes pictures, dietary details, required ingredients and calorie calculations. If the user is not satisfied with the suggestions, the user is given the option to refresh for another recommendation. 
