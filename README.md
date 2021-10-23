@@ -25,19 +25,23 @@ Inform users about the product
 #### Components: 
 
 `Product Introduction` Section -> Display what is “what2cook” and how to use it
+
 `About Us` Section -> Display our team information
+
 `Get Started` Button  -> Lead user to the next page
 
 ### 2nd page (Form page):
 
 #### Functionality: 
 
-Collect user’s info 
-Process info to make meal recommendation 
+1. Collect user’s info 
+
+2. Process info to make meal recommendation 
 
 #### Components: 
 
 `Information collection` form  -> Collect information like age, gender, weight, height and goals from use.
+
 `Make Recommendation` Button  -> Lead user to the next result page
 
 ### 3rd page (Result page):
@@ -49,6 +53,8 @@ Display meal recommendation and relevant tips
 #### Components: 
 
 `Meal Recommendation` Sections  ->  Display three meal recommendations and each recommendation will include information like calories, diet label and relevant ingredients.
+
 `Basal Metabolic Rate(BMR) Calculation` Result  ->  Display user’s BMR rate
+
 `Body Mass Index (BMI) Calculation` Result ->  Display user’s BMI rate
 `Refresh` Button  ->  Switch three different meal recommendations and display them
