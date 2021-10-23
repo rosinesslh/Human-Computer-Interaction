@@ -58,4 +58,5 @@ Display meal recommendation and relevant tips
 `Basal Metabolic Rate(BMR) Calculation` Result  ->  Display user’s BMR rate
 
 `Body Mass Index (BMI) Calculation` Result ->  Display user’s BMI rate
+
 `Refresh` Button  ->  Switch three different meal recommendations and display them
